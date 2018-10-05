@@ -13,3 +13,7 @@ function sayHeyFriend(name) {
 function shouting(string) {
   return string.toUpperCase();
 }
+
+function roundDown(number) {
+  return number.floor();
+}
