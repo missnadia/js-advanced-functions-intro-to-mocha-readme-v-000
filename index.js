@@ -15,5 +15,5 @@ function shouting(string) {
 }
 
 function roundDown(number) {
-  return number.Math.floor();
+  return Math.floor(number);
 }
